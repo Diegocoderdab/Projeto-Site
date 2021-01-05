@@ -7,6 +7,10 @@ body{
     background-color: blueviolet;
 }
 
+img.lado{
+    float: right;
+}
+
 main{
     background-color: white;
     width: 500px;
@@ -14,3 +18,4 @@ main{
     padding: 10px;
     box-shadow: black;
 }
+
